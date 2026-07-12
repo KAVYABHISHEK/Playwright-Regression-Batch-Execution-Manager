@@ -60,7 +60,7 @@ Reports • Screenshots • Logs
 
 👉 **View the UI here:**
 
-**https://kavyabhishek.github.io/Playwright-Regression-Runner**
+** https://kavyabhishek.github.io/Playwright-Regression-Batch-Execution-Manager/**
 
 > **Note:** This GitHub Pages deployment showcases the frontend UI only. Backend APIs and Playwright execution require a local setup.
 
